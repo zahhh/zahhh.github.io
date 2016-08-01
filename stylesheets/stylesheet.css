@@ -87,3 +87,13 @@ a:hover {
 	position: relative;
 	padding-top: 15px;
 }
+.menu{
+	text-decoration: none;
+	margin-left: 10px;
+	margin-top:10px ;
+	color:purple;
+ }
+ .menu.active{
+	 text-weight:bold;
+ 	background-color: white;
+  }
